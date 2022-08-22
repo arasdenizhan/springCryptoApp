@@ -13,6 +13,6 @@
 ## User Interface
 
 - User can filter, sort and list the coins by their names, prices etc.
-- ![Interface](interface.png)
+![Interface](interface.png)
 
 
